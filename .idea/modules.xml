@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/单例模式/单例模式.iml" filepath="$PROJECT_DIR$/单例模式/单例模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/外观模式/外观模式.iml" filepath="$PROJECT_DIR$/外观模式/外观模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/工厂方法/工厂方法.iml" filepath="$PROJECT_DIR$/工厂方法/工厂方法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/模板方法/模板方法.iml" filepath="$PROJECT_DIR$/模板方法/模板方法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/生产者-消费者/生产者-消费者.iml" filepath="$PROJECT_DIR$/生产者-消费者/生产者-消费者.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式.iml" filepath="$PROJECT_DIR$/设计模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/适配器/适配器.iml" filepath="$PROJECT_DIR$/适配器/适配器.iml" />
+    </modules>
+  </component>
+</project>
